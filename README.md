@@ -13,3 +13,6 @@ A collection of bad URLs to use for moderation purposes.
 2. fork this repository
 3. make your changes
 4. open a pull request
+
+## Discord Server
+[Link](https://discord.gg/PeV2Qj5SHD)
